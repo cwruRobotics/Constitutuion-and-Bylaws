@@ -20,14 +20,15 @@ Amended: 2-17-2018
 
 ## Article I: Statement of Purpose
 
+<h3 style="margin-left: 2.5%">
 
-<span class="bolded">Section 1:</span> The CWRU Robotics Club, called CWRUbotix, creates robots that solve challenging and relevant problems. In pursuing this objective, it provides the student body with opportunities to learn concepts beyond their curriculum, to gain real world experience in leadership, project management, robotics and related fields, and to promote STEM and robotics education within the local community. 
+**Section 1:** The CWRU Robotics Club, called CWRUbotix, creates robots that solve challenging and relevant problems. In pursuing this objective, it provides the student body with opportunities to learn concepts beyond their curriculum, to gain real world experience in leadership, project management, robotics and related fields, and to promote STEM and robotics education within the local community. 
 
 ## Article II: Membership and Conduct 
 
-**Section 1:** Membership shall be open to all current students, faculty, and staff of Case Western Reserve University regardless of race, color, creed, sex, gender, sexual orientation, ancestry, language, national origin, disability, age, or status as a veteran. 
-
-    Section 2: An active member is someone who has attended at least 2 of the last 5 general body meetings, who has contributed to club efforts or attended club-facilitated training, and who has not been removed from the club by the executive board. 
+<h3>Section 1: Membership shall be open to all current students, faculty, and staff of Case Western Reserve University regardless of race, color, creed, sex, gender, sexual orientation, ancestry, language, national origin, disability, age, or status as a veteran. 
+</h3>   
+Section 2: An active member is someone who has attended at least 2 of the last 5 general body meetings, who has contributed to club efforts or attended club-facilitated training, and who has not been removed from the club by the executive board. 
 
     Section 3: The general body consists of all active members. 
 
