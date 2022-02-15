@@ -20,9 +20,7 @@ Amended: 2-17-2018
 
 ## Article I: Statement of Purpose
 
-<h3 style="margin-left: 100px">
-
-**Section 1:** The CWRU Robotics Club, called CWRUbotix, creates robots that solve challenging and relevant problems. In pursuing this objective, it provides the student body with opportunities to learn concepts beyond their curriculum, to gain real world experience in leadership, project management, robotics and related fields, and to promote STEM and robotics education within the local community. 
+<h3 style="margin-left: 100px">**Section 1:** The CWRU Robotics Club, called CWRUbotix, creates robots that solve challenging and relevant problems. In pursuing this objective, it provides the student body with opportunities to learn concepts beyond their curriculum, to gain real world experience in leadership, project management, robotics and related fields, and to promote STEM and robotics education within the local community. 
 </h3>
 
 ## Article II: Membership and Conduct 
