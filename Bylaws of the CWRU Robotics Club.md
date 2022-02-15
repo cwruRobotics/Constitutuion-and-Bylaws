@@ -1,5 +1,5 @@
 
-<p align="center"?
+<p align="center">
 # THE CONSTITUTION OF CWRU ROBOTICS CLUB (CWRUbotix) 
 
 Approved by the General Body: 4-27-16 
