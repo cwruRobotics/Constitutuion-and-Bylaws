@@ -1,11 +1,14 @@
 
 <p align="center">
-# THE CONSTITUTION OF CWRU ROBOTICS CLUB (CWRUbotix) 
+THE CONSTITUTION OF CWRU ROBOTICS CLUB (CWRUbotix) 
+</p>
 
+<p align="center">
 Approved by the General Body: 4-27-16 
+</p>
 
+<p align="center">
 Amended: 2-17-2018 
-
 </p>
 
 ## Article I: Statement of Purpose
