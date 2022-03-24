@@ -1,7 +1,7 @@
 
-<p align="center">
+<p align="center" font size="6px">
     <strong>
-    THE CONSTITUTION OF CWRU
+    THE BYLAWS OF CWRU 
     </strong>
 </p>
 
@@ -12,115 +12,108 @@
 </p>
 
 <p align="center">
-Approved by the General Body: 4-27-16 
+Approved by the General Body: 2017-04-29
 </p>
 
 <p align="center">
-Amended: 2-17-2018 
+Last amended: 2022-02-19
 </p>
 
 <br>
 
 
-## **Article I: Statement of Purpose**
-
-1. **Section 1:** The CWRU Robotics Club, called CWRUbotix, creates robots that solve challenging and relevant problems. In pursuing this objective, it provides the student body with opportunities to learn concepts beyond their curriculum, to gain real world experience in leadership, project management, robotics and related fields, and to promote STEM and robotics education within the local community. 
+## **Article I: Purpose**
 
 
-## **Article II: Membership and Conduct**
+1. **Section 1:** The Bylaws of the CWRU Robotics Club are the standing rules governing operations of the CWRU Robotics Club too specific for the Constitution of the CWRU Robotics Club.
+2. **Section 2:** These Bylaws, upon ratification, are inferior only to the Constitution of the CWRU Robotics Club. 
 
-1. Section 1: Membership shall be open to all current students, faculty, and staff of Case Western Reserve University regardless of race, color, creed, sex, gender, sexual orientation, ancestry, language, national origin, disability, age, or status as a veteran. 
+
+## **Article II: Club Member Rights and Responsibilities**
+
+1. **Section 1:** Club members can freely approach members of the campus community on behalf of the club for mentorship support. 
+   1. **Subsection 1:** Club members may not ask for or receive anything other than mentorship support from campus community members on behalf of the club without approval from the Executive Board, unless the item in question is of insignificant monetary value or is being permanently and freely given. What constitutes insignificant monetary value is at the discretion of the executive board.
   
-2. **Section 2:** An active member is someone who has attended at least 2 of the last 5 general body meetings, who has contributed to club efforts or attended club-facilitated training, and who has not been removed from the club by the executive board. 
+2. **Section 2:** Club members must receive written prior approval from the Executive Board to communicate with organizations outside of the campus community on behalf of the club for any sort of sponsorship or support.  
 
-3. **Section 3:** The general body consists of all active members. 
+## **Article III: Competition Team Formation** 
 
-4. **Section 4:** Any person may be removed from the club for misconduct. Removed persons are barred from attending or participating in all club activities and stripped of all explicit or implicit rights and responsibilities. A majority vote of the executive board is required to remove a person from the club and removal may last for a specified time period or indefinitely. The executive board may reverse removal by a majority vote. 
+1. **Section 1:** All teams under the CWRU Robotics Club competition roster must make a pitch for the competition at a General Body Meeting, and a more detailed presentation at an Executive Board meeting. This must occur:
+   1. when proposing the addition of a new competition,
+   2. following a year of no design work on the competition,
+   3. if ½ of the leadership has no prior experience with the competition,
+   4. at least once every 3 years otherwise (e.g. for continuing teams: NASA Lunabotics, MATE ROV).
 
-5. **Section 5:** Any action that is discriminatory, disrespectful, or that causes discomfort or inconvenience to the club or any of its members is misconduct. Furthermore, violation of university, club, or club resource policy is misconduct. Other actions may also be considered misconduct. 
+    Teams may also be required to present at the discretion of the executive board. The presentation must include sections concerning: 
+    1. An overview of the competition 
+    2. The technical challenges/merit of the competition 
+    3. A rough outline of the team’s possible approach to the competition
+    4. A timeline with key dates and an initial Gantt chart 
+    5. A preliminary budget, including rough estimates of material and component costs, travel costs, and proposed sources of funding
+    6. A discussion of the overall competition merit 
+    7. Additional resources needed, such as member count and manufacturing  requirements.
 
-6. **Section 6:** The club will cease association with any business, sponsor, donor, advisor, member, competition, or other entity or relationship that discriminates based on race, color, creed, sex, gender, sexual orientation, ancestry, language, national origin, disability, age, or status as a veteran. 
+    Team members proposing a competition must notify the Executive Board by the Executive Board meeting before the meeting at which they would like to present. After a competition presentation, exec will gather interest in the club, then the proposed competition’s addition to the team roster will be decided at the discretion of the Executive Board. 
 
-## **Article III: Executive Board** 
+## **Article IV: Competition Team Responsibilities** 
 
-1. **Section 1:** The executive board shall consist of six officers: President, Vice-President, Treasurer, Secretary, Lab and Safety Manager, and Public Relations Manager. These officers shall be elected by the club during annual elections. 
+1. **Section 1:** Competition Team Leads are responsible for upholding an agreed upon timeline and for communicating with the Vice President or President if conflicts arise. 
 
-2. **Section 2:** The executive board interprets the constitution. 
-
-3. **Section 3:** A majority vote of the executive board is defined as a vote where more than fifty percent of the executive board votes in the affirmative. 
-
-4. **Section 4:** Newly elected officers board shall serve a term that begins at a date set by the outgoing Vice-President which precedes the first day of classes of the fall semester. 
-
-Page 2
-
-5. **Section 5:** Any officer of the executive board can create a committee to assist in the completion of their responsibilities. 
-
-6. **Section 6:** The President is responsible for the general functioning of the organization and is the head of the executive board. They shall conduct general body and executive board meetings. They shall act as a primary liaison between the club and organizations with which the club interacts. They are responsible for ensuring timely progress of club activities. They may appoint non-voting officers in the event of a vacancy until the replacement officer is elected. 
-
-7. **Section 7:** The Vice-president shall conduct business in the absence of the President and assist the President and executive board whenever necessary. Should the president’s position be vacated, the Vice-president will become the President, leaving the Vice-president position vacant. The Vice President shall be responsible for transitioning in new officers. 
-
-8. **Section 8:** The Secretary shall facilitate communication between the executive board and the general membership, and communication among the general membership. They shall compose and publish meeting minutes for all general body and executive board meetings. They shall be responsible for ensuring committees and project teams take and publish meeting minutes. They shall organize, maintain, and make available all club documents, maintain a list of all active members, manage the club mailing lists, and provide other information services.
-    
-9.  **Section 9:** The Treasurer shall maintain accurate organization finance records including a club budget that is updated on a weekly basis which shows current funds in all accounts and all project team budgets. They shall facilitate the club’s ability to make purchases. They shall coordinate funding efforts including submitting annual funding requests to the Undergraduate Student Government and Case Alumni Association, and including obtaining and communicating with sponsors or potential sponsors of the club. 
-
-10. **Section 10:** The Lab and Safety Manager is responsible for managing and organizing any spaces occupied by the club, facilitating access to those spaces, managing club property, and purchasing lab equipment and tools. They shall enforce proper safety procedures and policies, and ensure active members are aware of relevant campus resources, and club resource policies. 
-
-11. **Section 11:** The Public Relations Manager shall manage advertising for all club events, organize outreach activities, and organize public fundraising efforts. They shall maintain the club website and social media accounts. 
-
-    1. **Subsection 1:** The Public Relations  Manager must appoint and chair a social   media committee. The committee is charged with maintaining the club’s social media presence. It is recommended there be at least one committee member for each competition and project in which the club participates.     
-
-    2. **Subsection 2:** The Public Relations Manager must appoint and chair a website maintenance committee. The website maintenance committee is charged with regularly updating the club website. 
-
-12. **Section 12:** All expenditures must be approved by majority vote of the executive board. 
-
-## **Article IV: Projects and Competitions** 
-
-Page 3
-
-1. **Section 1:** All competitions shall have a dedicated coordinator. The coordinator’s job includes arranging transportation, registration, general logistics of competitions, immediately reporting potential problems to the executive board, and submitting reports to the executive board as requested. 
-
-2. **Section 2:** All projects and competitions that require funding must have a team leader, who must present a full budget and timeline to the executive board in the requested format, and submitting reports to the executive board as requested. 
-
-## **Article V: Elections** 
-
-1. **Section 1:** All elections shall be facilitated by an Elections Director. The Elections Director will facilitate nominations, provide opportunities for interested members to learn about positions, promote the election, and run the elections meeting. The Elections Director cannot be nominated or elected to any position during the election. 
-
-2. **Section 2:** Annual elections shall be held on a date selected by the Executive Board and announced to the general body no later than January 31st. The elections date must fall in the last week of March or the first week of April. For the annual election, the Elections Director must be elected at least three weeks before the elections date by majority vote of the general body. 
-
-3. **Section 3:** The Executive Board will act as the Elections Director for all elections that are not the annual election. Non-annual elections will occur at the first regularly scheduled general body meeting that occurs after the minimum open nominations period has passed.
-
-4. **Section 4:** A member is eligible to be nominated, to nominate, and to vote only if they are an active member. 
-
-5. **Section 5:** Nominations must be open for at least 72 hours before any election, and at least two weeks before the annual election. Nominees must accept their nomination to be considered for election. Nominations will close for each position as it comes up for election. 
-
-6. **Section 6:** Positions will be elected in the order they appear in the constitution. Each candidate will be allowed equal time to speak and answer questions. After each candidate has presented, or had someone present on their behalf, voting will proceed with the candidates outside of the room. 
-
-7. **Section 7:** All elected positions are elected by majority vote of the present general body. In the event of no majority winner, instant runoff voting via paper ballot must be used. 
-
-## **Article VI: Vacancies and Removal from Office**
-
-1. **Section 1:** If a vacancy occurs for any elected position it shall be announced immediately to the entire club at which point nominations will be open and the elections will be held according to Article V. Section 3. 
-
-2. **Section 2:** Any executive member may be removed from office for specific grievances by either aeither the a majority vote of the executive board or a two-thirds vote of the general body. If the executive board will remove the executive member then the member against whom grievances are brought will not vote, and the advisor will be the sixth 
-
-Page 4
-
-2. voting member. Grievances must be presented at one of the regularly scheduled meetings of the body voting to remove, and the vote will occur at a differentoccur a different regularly scheduled meeting of that body. The vote must occur at least one week after grievances are presented. If the member who is being removed can’t usually attend the regularly scheduled meetings of the body voting to remove accommodations must be made so they are able to attend both meetings if they wish. An open discussion must be held both after grievances are presented at the first meeting and again and before the vote occurs at the second meeting. 
-
-3. **Section 3:** Members of the executive board must reside on or within commuting distance of campus for the duration of their elected term, excluding portions of the year classes that areclasses are not in session. If an executive board member is absent from campus for a period greater than a month of their elected term, they will be removed from office and the vacancy will be filled according to Article VI, Section 1. 
-
-4. **Section 4:** Members of the executive board should be physically or electronically present for all executive board meetings. If an executive board member is absent from four consecutive executive board meetings, they will be removed from office and the vacancy will be filled according to Article VI, Section 1. 
-
-## **Article VII: Meetings and Operations**
-
-1. **Section 1:** The executive board shall hold meetings that are advertised and open to the club at least once per week. 
-2. **Section 2:** More than fifty percent of the executive board must be present for the executive board to conduct business. 
-3. **Section 3:** The President in consultation with the other Executive Board officers shall decide on regularly scheduled general body meeting times and places. 
-4. **Section 4:** The President shall conduct general body meetings according to agendas set by the President prior to each general body meeting. 
-5. **Section 5:** A quorum of fifty percent of the Executive Board and fifty percent of active members must be present to conduct official club business at a general body meeting. Official club business is defined as all elections and other actionable items that the executive board decrees. 
-6. **Section 6:** A majority vote of the general body is defined as more than fifty percent of present active members voting in the affirmative. 
-7. **Section 7:** A two-thirds majority vote of the general body is defined as more than two thirds of present active members voting in the affirmative
+   1. **Subsection 1:** The NRC teams must conduct a Preliminary Design Review (PDR) at the end of the fall semester on a date agreed upon at the initial team presentation as outlined in Article III, Section 2, Subsection 1. The PDR is required for an NRC team to begin purchasing components or stock. The PDR must cover the following topics/items: 
+      1. An updated Gantt chart
+      2. A description of the current approach/solution to the competition, which should include 
+         1. Descriptions of any software programs 
+         2. Preliminary CAD models 
    
-## **Article VIII: Amendments**
+      3. Verification that the current design meets the requirements for the competition
+      4. A preliminary Bill of Materials, with an updated cost estimate 
+   2. **Subsection 2:** The NRC teams must conduct a Critical Design Review (CDR) at the beginning of the spring semester on a date agreed upon at the initial team presentation as outlined in Article III, Section 2, Subsection 1. The CDR is required for an NRC team to sign up for their designated competition. The CDR must cover the following topics/items:
+      1. Detailed CAD models of the current design 
+      2. Verification that the current design meets the requirements for the Competition
+      3. Description of all software programs 
+2. **Section 2:** Competition Team Leads are responsible for maintaining a list of all active members on the Competition Team.
+3. **Section 3:** Competition Team Leads are responsible for procuring liability waivers from all active members on the Competition Team. Competition Team members without a signed waiver on file cannot travel in an official capacity with their Competition Team or the CWRU Robotics Club at large. 
 
-1. **Section 1:** Any member may propose an amendment during any general body meeting. If seconded the proposed amendment shall be discussed then tabled until the next meeting. At the next meeting the amendment will be read out loud, a discussion will be held, and a vote will be held. A two-thirds majority vote of the general body will be required to pass the amendment. 
+
+
+## **Article V: Competition Team Procedures** 
+
+1. **Section 1:**  Each Competition Team should submit a purchase request to the Treasurer for all items necessary for their project. 
+   1. **Subsection 1:** If an item for a project is personally purchased by a Competition Team member, they should apply for a reimbursement of the funds in a manner outlined by the Treasurer. The Executive Board reserves the right to deny reimbursements at their discretion.
+   2.  **Subsection 2:** Once a Competition Team member receives their reimbursement for the purchased item, the item belongs to the CWRU Robotics Club. If a Competition Team member decides to forgo the reimbursement process, the item remains their property and they can choose to reclaim the item at their discretion.
+2. **Section 2:** Each Competition Team is entitled to a designated space to store their project and project components in the lab space of the CWRU Robotics Club. If such space is not readily available, the Competition Team Lead should communicate this need to the Lab and Safety Manager. 
+3. **Section 3:** Each Competition Team can use any unclaimed components found in the CWRU Robotics Club lab space for their project. An item is considered unclaimed if it is not in a Competition Team’s designated storage space and does not have any apparent signs of belonging to another Competition Team (e.g. a label or recognizable interfacing component) 
+4. **Section 4:** Each Competition Team member can borrow tools from the CWRU Robotics Club lab space for personal projects. Members must first request permission from the Lab and Safety Manager to borrow the selected tool verbally or through the Tool Borrow Request Form. Whether or not the member is allowed to borrow the tool and the borrowing duration is at the discretion of the Lab and Safety Manager. 
+
+
+## **Article VI: Competition Team Conclusion**
+
+1. **Section 1:** If a Competition Team loses enough active members such that they are no longer able to complete their competition or project, the team will be disbanded by the Executive Board and their remaining funds will be distributed to other projects or competitions. 
+   1. **Subsection 1:** If the Competition Team Leads are having difficulty maintaining an active membership, they should communicate this difficulty to the Vice President or President.
+
+2. **Section 2:** A Competition Team will be considered disbanded by the Executive Board once they have competed in their founding competition during the academic year of their creation. Competition Teams that wish to continue as a team can renew their official team status by following the procedures to establish their team as outlined in Article I at the beginning of the next academic year. 
+
+3. **Section 3:** Projects created by Competition Teams will be preserved for up to two years after the disbanding of the Competition Team. After this time, the project can be dismantled at the discretion of the Executive Board.  
+   1. **Subsection 1:** To dismantle a project before the allotted time period, the Executive Board must procure verbal or written consent from all active members formerly part of the project’s Competition Team. 
+   2. **Subsection 2:** Once the allotted time period has passed, the Executive Board will notify any active members formerly part of the project’s Competition Team of the project’s dismantling status. 
+   3. **Subsection 3:** Once a project is slated to be dismantled, the former Competition Team members are entitled to any components of the project not of value to the CWRU Robotics Club. What defines value is to be determined at the discretion of the Executive Board. The former Competition Team members can choose to purchase the fully intact project from the CWRU Robotics Club for the total cost of all valuable components contained within the project.  
+
+## **Article VII: Election Procedures**
+
+1. **Section 1:** All Competition Team Leads must be agreed on by a majority of the Competition Team membership and the executive board. The Competition Team may also have other leadership if the Competition Team membership, or Lead, deems necessary. The Competition Team membership will decide how and when to approve their leaders. 
+2. **Section 2:** Elections for the Executive Board proceed as outlined in the CWRU Robotics Club Constitution, with these additional procedures: 
+   1. **Subsection 1:** Executive Board candidates will have 3 minutes of speaking time and 2 minutes for questions from the General Body. There will be a 5-minute discussion after all of the candidates have spoken and answered questions. The discussion will be closed to candidates. The discussion time may be extended with a simple majority vote of the members in the discussion and approval of the Elections Director.
+   2.  **Subsection 2:** If a member runs for multiple Executive Board positions and wins a position, they will be removed from the subsequent elections. If a member runs for multiple positions and does not win a position, they may run for a position in the subsequent elections. 
+## **Article VIII: Judicial Procedures**
+
+1. **Section 1:** Members are encouraged to resolve disputes as soon as possible through informal discussion with the involved parties before a formal claim is filed. Should informal discussion be unsuccessful, a formal claim can be filed to the President outlining the dispute and/or reasons to file a claim against the involved parties. 
+   1. **Subsection 1:** The President may deem mediation as the course of action in settling a dispute. The purpose of mediation is to find a solution satisfactory to both parties with expediency. Mediation shall be closed to the public, and all participants in the mediation shall be kept strictly confidential. In cases of claims where a member who has not filed the claim has information regarding the claim, then they shall, at the discretion of the President, attend only for the purpose of presenting information, after which they shall be excused from the mediation. 
+   
+
+## **Article IX. Amendments to Governing Bodies** 
+1. **Section 1:** If an active club member feels that the Constitution of the CWRU Robotics Club needs to be reviewed or revised, they can submit the proposed amendment through the Amendment Form or at the next General Body meeting. 
+   1. **Subsection 1:** The proposed amendment will be presented at the next General Body meeting, at which point 5 minutes will be allowed for discussion of the wording of the amendment. This time can be extended at the discretion of the member of the Executive Board conducting the meeting. If the wording is not agreed upon during the allotted discussion time, the amendment will be discussed at a later time established during or directly after the General Body meeting. 
+   2. **Subsection 2:** At the following General Body meeting at which a proposed amendment was first presented, the revised amendment will be presented again, at which point 5 minutes will be allowed for general discussion of the amendment. This time can be extended at the discretion of the member of the Executive Board conducting the meeting. At the end of the allowed time for general discussion, the proposed amendment will be voted on by the present members. A two-thirds majority of the General Body passes the amendment. 
+2. **Section 2:** If an active club member feels that the Bylaws of the CWRU Robotics Club need to be reviewed or revised, they can submit the proposed amendment through the Amendment Form, or at the next General Body meeting. 
+   1. **Subsection 1:** The proposed amendment will be presented at the next General Body meeting, at which point 5 minutes will be allowed for discussion of the wording of the amendment and for general discussion. This time can be extended at the discretion of the member of the Executive Board conducting the meeting. At the end of the allowed time general discussion, the proposed amendment will be voted on by the present members. A majority vote of the General Body passes the amendment. 
+
